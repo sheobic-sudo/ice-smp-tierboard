@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import {
   Activity, ArrowDownUp, Award, Check, ChevronDown, ChevronRight, Clipboard,
-  Crown, ExternalLink, Gamepad2, Github, LockKeyhole, LogOut, Medal, Plus,
+  Crown, ExternalLink, Gamepad2, LockKeyhole, LogOut, Medal, Plus,
   Search, Shield, Swords, Trash2, Trophy, Upload, UserRound, X, Zap
 } from 'lucide-react'
 import './style.css'
