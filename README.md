@@ -1,4 +1,4 @@
-# IceSMP PvP Tierboard
+# IceSMP PvP Tierboard 
 
 A responsive React + Vite leaderboard starter with a dark esports UI, player profiles, tier points, gamemode filters, search, and a local admin panel.
 
